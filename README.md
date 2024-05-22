@@ -3,6 +3,6 @@ boas vindas ao meu perfil
 Meu nome é Ezequiel
 
 - Estou estudando alura
-- Faço graffiti
+- Eu faço graffiti
 - Para contato: 00001088605400sp@al.educacao.sp.gov.br
 
